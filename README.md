@@ -5,7 +5,6 @@ Telegram Crypto Currency Bot
 
 A simple crypto currency bot for [our justhold.de telegram group](https://www.justhold.de/) (or private chats!) based on [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) and the newest Python 3. The bot uses the [coinmarketcap.com API](https://coinmarketcap.com/api/) to obtain all data.
 
-![commands example](img/commands.png)
 
 Commands List
 -------------
